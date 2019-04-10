@@ -1,0 +1,271 @@
+8730 diseases
+5320 clusters
+merging 232-233, with similarity 99.53
+merging 79-81, with similarity 99.47
+merging 1-11, with similarity 99.40
+merging 121-122, with similarity 98.86
+merging 261-270, with similarity 98.73
+merging 214-215, with similarity 98.71
+merging 376-392, with similarity 98.55
+merging 934-943, with similarity 98.55
+merging 19-24, with similarity 98.25
+merging 183-184, with similarity 98.11
+merging 267-278, with similarity 98.11
+merging 157-166, with similarity 98.11
+merging 179-188, with similarity 98.04
+merging 603-604, with similarity 97.96
+merging 566-580, with similarity 97.78
+merging 760-778, with similarity 97.56
+merging 490-491, with similarity 97.35
+merging 751-752, with similarity 97.14
+merging 1073-1179, with similarity 97.14
+merging 803-822, with similarity 96.97
+merging 1165-1166, with similarity 96.97
+merging 122-130, with similarity 96.77
+merging 758-784, with similarity 96.77
+merging 1822-1823, with similarity 96.77
+merging 872-894, with similarity 96.67
+merging 908-909, with similarity 96.55
+merging 1277-1507, with similarity 96.55
+merging 508-670, with similarity 96.43
+merging 2772-2802, with similarity 96.30
+merging 849-1682, with similarity 96.00
+merging 930-931, with similarity 96.00
+merging 1241-1242, with similarity 96.00
+merging 645-646, with similarity 95.65
+merging 382-383, with similarity 94.98
+merging 621-641, with similarity 94.74
+merging 623-624, with similarity 94.74
+merging 1298-1332, with similarity 94.74
+merging 2681-2719, with similarity 94.74
+merging 175-188, with similarity 94.55
+merging 603-604, with similarity 94.44
+merging 686-687, with similarity 94.12
+merging 1397-1398, with similarity 94.12
+merging 2079-2080, with similarity 94.12
+merging 252-265, with similarity 93.98
+merging 181-182, with similarity 93.90
+merging 126-135, with similarity 93.75
+merging 50-54, with similarity 93.33
+merging 2073-2119, with similarity 93.33
+merging 2216-2217, with similarity 93.33
+merging 2699-2748, with similarity 93.33
+merging 781-782, with similarity 92.96
+merging 917-955, with similarity 92.86
+merging 2214-2906, with similarity 92.86
+merging 99-108, with similarity 92.54
+merging 489-514, with similarity 92.47
+merging 201-202, with similarity 92.31
+merging 618-619, with similarity 92.31
+merging 1537-1538, with similarity 92.31
+merging 1593-1594, with similarity 92.31
+merging 1607-1660, with similarity 92.31
+merging 2284-2285, with similarity 92.31
+merging 291-314, with similarity 92.09
+merging 839-881, with similarity 92.06
+merging 187-188, with similarity 91.89
+merging 1035-1036, with similarity 91.67
+merging 21-28, with similarity 91.59
+merging 666-667, with similarity 91.43
+merging 1786-1823, with similarity 91.43
+merging 3-4, with similarity 91.24
+merging 386-423, with similarity 90.91
+merging 506-537, with similarity 90.91
+merging 630-668, with similarity 90.91
+merging 702-744, with similarity 90.91
+merging 729-775, with similarity 90.91
+merging 1021-1022, with similarity 90.91
+merging 1624-1625, with similarity 90.91
+merging 1926-1996, with similarity 90.91
+merging 2002-2231, with similarity 90.91
+merging 2439-2440, with similarity 90.91
+merging 2702-2780, with similarity 90.91
+merging 110-111, with similarity 90.02
+Cluster 0:
+  ACTH Syndrome, Ectopic
+  Arthritis, Gouty
+  Cerebral Palsy
+  Facial paralysis
+  Hypernatremia
+  Little's Disease
+  Rhabdomyoma
+  Diplegic Infantile Cerebral Palsy
+  Cerebral Palsy, Quadriplegic, Infantile
+  Monoplegic Infantile Cerebral Palsy
+  Athetoid cerebral palsy
+  Monoplegic Cerebral Palsy
+  Spastic cerebral palsy
+  Subaortic stenosis
+  Opsoclonus-Myoclonus Syndrome
+  Cerebral Palsy, Dystonic-Rigid
+  Cerebral Palsy, Atonic
+  Congenital Cerebral Palsy
+  Sacroiliitis
+  Cerebral Palsy, Mixed
+  Cerebral Palsy, Rolandic Type
+  Kinsbourne Syndrome
+  Paraneoplastic Opsoclonus-Myoclonus Ataxia
+  Proopiomelanocortin Deficiency
+  Pyogenic Sacroiliitis
+  Septic Sacroiliitis
+Cluster 1:
+  Malignant Meningioma
+  Benign Meningioma
+  Meningothelial meningioma
+  Fibrous Meningioma
+  Psammomatous Meningioma
+  Angiomatous Meningioma
+  Hemangioblastic Meningioma
+  Hemangiopericytic Meningioma
+  Transitional Meningioma
+  Spinal Meningioma
+  Intracranial Meningioma
+  Clear Cell Meningioma
+  Xanthomatous Meningioma
+  Cerebral Convexity Meningioma
+  Parasagittal Meningioma
+  Intraorbital Meningioma
+  Intraventricular Meningioma
+  Olfactory Groove Meningioma
+  Secretory meningioma
+  Microcystic meningioma
+  Angioblastic Meningioma
+  Posterior Fossa Meningioma
+  Sphenoid Wing Meningioma
+  Papillary Meningioma
+Cluster 2:
+  Nystagmus
+  Dissociated Nystagmus
+  Rotary Nystagmus
+  Periodic Alternating Nystagmus
+  Symptomatic Nystagmus
+  Spontaneous Ocular Nystagmus
+  Horizontal Nystagmus
+  Vertical Nystagmus
+  Rebound Nystagmus
+  Pendular Nystagmus
+  Jerk Nystagmus
+  See-Saw Nystagmus
+  Retraction Nystagmus
+  Temporary Nystagmus
+  Permanent Nystagmus
+  Unidirectional Nystagmus
+  Multidirectional Nystagmus
+  Conjugate Nystagmus
+  Convergence Nystagmus
+  Fatigable Positional Nystagmus
+  Non-Fatigable Positional Nystagmus
+  LEBER CONGENITAL AMAUROSIS 6 (disorder)
+  Cone-Rod Dystrophy 13
+Cluster 3:
+  Legg-Calve-Perthes Disease
+  Achondrogenesis type 2
+  Kniest dysplasia
+  Namaqualand hip dysplasia
+  Hypochondrogenesis
+  Strudwick syndrome
+  Spondyloperipheral dysplasia short ulna
+  Platyspondylic Lethal Skeletal Dysplasia, Torrance Type
+  Stickler Syndrome, Type I, Nonsyndromic Ocular
+  RHEGMATOGENOUS RETINAL DETACHMENT, AUTOSOMAL DOMINANT
+  Czech dysplasia, metatarsal type
+  Epiphyseal Dysplasia, Multiple, with Myopia and Conductive Deafness
+  Osteoarthritis with Mild Chondrodysplasia
+  Spondylometaphyseal dysplasia, Algerian type
+  Spondyloepiphyseal dysplasia, congenita
+  SPONDYLOEPIPHYSEAL DYSPLASIA, STANESCU TYPE
+  Dysspondyloenchondromatosis
+Cluster 4:
+  Aphasia
+  Aphasia, Acquired
+  Aphasia, Ageusic
+  Aphasia, Global
+  Aphasia, Functional
+  Aphasia, Graphomotor
+  Aphasia, Intellectual
+  Aphasia, Semantic
+  Aphasia, Syntactical
+  Aphasia, Progressive
+  Aphasia, Mixed
+  Aphasia, Auditory Discriminatory
+  Aphasia, Commisural
+  Aphasia, Post-Ictal
+  Aphasia, Post-Traumatic
+  Dejerine-Lichtheim Phenomenon
+  Dysphasia
+Cluster 5:
+  Carotid Stenosis
+  Mercury Poisoning
+  Sea-Blue Histiocyte Syndrome
+  Internal Carotid Artery Stenosis
+  Multiple Sclerosis, Acute Relapsing
+  Common Carotid Artery Stenosis
+  External Carotid Artery Stenosis
+  Multiple Sclerosis, Relapsing-Remitting
+  Apolipoprotein E, Deficiency or Defect of
+  Dysbetalipoproteinemia due to Defect in Apolipoprotein E-d
+  Familial Hyperbeta- and Prebetalipoproteinemia
+  Hyperlipemia with Familial Hypercholesterolemic Xanthomatosis
+  Broad-Betalipoproteinemia
+  Floating-Betalipoproteinemia
+  ALZHEIMER DISEASE 2
+  LIPOPROTEIN GLOMERULOPATHY
+Cluster 6:
+  Jacksonian Seizure
+  Complex partial seizures
+  Generalized seizures
+  Seizures, Clonic
+  Visual seizure
+  Epileptic drop attack
+  Olfactory seizure
+  Vertiginous seizure
+  Tonic - clonic seizures
+  Single Seizure
+  Atonic Absence Seizures
+  Nonepileptic Seizures
+  Epileptic Seizures
+  Generalized Absence Seizures
+Cluster 7:
+  Idiopathic familial dystonia
+  Focal Dystonia
+  Adult-Onset Dystonias
+  Adult-Onset Idiopathic Focal Dystonias
+  Adult-Onset Idiopathic Torsion Dystonias
+  Autosomal Dominant Familial Dystonia
+  Autosomal Recessive Familial Dystonia
+  Childhood Onset Dystonias
+  Dystonia, Primary
+  Dystonia, Secondary
+  Dystonias, Sporadic
+  Familial Dystonia
+  Pseudodystonia
+  Writer's Cramp
+Cluster 8:
+  Epilepsies, Partial
+  Epilepsy, Simple Partial
+  Gelastic Epilepsy
+  Benign Focal Epilepsy, Childhood
+  Childhood Benign Occipital Epilepsy
+  Amygdalo-Hippocampal Epilepsy
+  Rhinencephalic Epilepsy
+  Occipital Lobe Epilepsy
+  Subclinical Seizure
+  Uncinate Seizures
+  Digestive Epilepsy
+  Benign Occipital Epilepsy
+  EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 14
+  EPILEPSY, NOCTURNAL FRONTAL LOBE, 5
+Cluster 9:
+  Fibrous Dysplasia, Monostotic
+  Polyostotic fibrous dysplasia
+  Pseudohypoparathyroidism
+  Pseudopseudohypoparathyroidism
+  McCune-Albright Syndrome
+  Osteoma cutis
+  Albright's hereditary osteodystrophy
+  Pseudohypoparathyroidism Type 1C
+  Pseudohypoparathyroidism, Type Ia
+  Fibrous dysplasia of bone with intramuscular myxoma
+  PITUITARY ADENOMA 3, MULTIPLE TYPES, SOMATIC
+  PITUITARY TUMOR 3, GROWTH HORMONE-SECRETING, SOMATIC
+  PITUITARY ADENOMA 3, GROWTH HORMONE-SECRETING, SOMATIC
